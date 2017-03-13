@@ -1,1 +1,2 @@
 What happens when you initialize a repository? Why do you need to do it? It creates a hidden file structure that allows storage of a repository.  It needs to happen because it is not the default.
+How is the staging area different from the working directory and the repository? What value do you think it offers? It is a temporary working space that is not fixed and allows for flexible review before making a committed commit.
